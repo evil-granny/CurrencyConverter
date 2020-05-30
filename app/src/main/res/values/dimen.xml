@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="money_in_width">179dp</dimen>
+    <dimen name="money_in_height">47dp</dimen>
+    <dimen name="money_out_height">43dp</dimen>
+
+    <dimen name="spinner_width">159dp</dimen>
+    <dimen name="spinner_height">41dp</dimen>
+
+    <dimen name="margin">8dp</dimen>
+</resources>

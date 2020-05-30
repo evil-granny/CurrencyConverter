@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="currency_money">Converted value</string>
+    <string name="currency_loaded">New curce is loaded</string>
+    <string name="currency_cant_load">Can\'t load new curce</string>
+    <string name="update_rate">Update the exchange rate</string>
+    <string name="request_already_sent">request already sent</string>
+    <string name="update_curce">Refresh rate</string>
+</resources>
